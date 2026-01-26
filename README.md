@@ -8,5 +8,7 @@
 ## 第一节 课程概览与shell
 [课程概览与 shell](<课程概览与 shell.md>)
 
+## 第二节 shell工具与脚本
+[shell工具与脚本](shell工具与脚本.md)
 ## 第三节 Vim
 [Vim](<Vim.md>)
